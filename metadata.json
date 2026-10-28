@@ -1,0 +1,6 @@
+{
+  "name": "Obsidian Signal",
+  "description": "Precision-engineered desktop communication environment for engineers, system architects, and high-cadence digital operators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
